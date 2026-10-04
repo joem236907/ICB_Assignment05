@@ -1,3 +1,4 @@
 Day 1: Started Analysis.
 Day 2: Cleaned Data.
 Day 3: Generated plots.
+Day 3: Ran statistical tests.
